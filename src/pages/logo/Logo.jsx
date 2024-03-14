@@ -7,7 +7,7 @@ const Logo = () => {
         <img className='w-10 ' src='https://static.vecteezy.com/system/resources/thumbnails/001/505/138/small/notification-bell-icon-free-vector.jpg' alt='onlinepic'/>
         <img  className='flex justify-center ' src='/vite.svg' alt='' />
         <input className=' flex justify-center bg-white rounded-lg px-4 py-2' type='text' placeholder='search'/>
-        <div className='bg-green-600 rounded-full flex items-center justify-center h-10 w-10'>
+        <div className='bg-green-600 rounded-full flex items-center justify-center h-10 w-10 absolute '>
           <SearchIcon />
         </div>
       </div>
