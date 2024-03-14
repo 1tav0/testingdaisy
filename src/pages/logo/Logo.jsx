@@ -8,6 +8,7 @@ const Logo = () => {
         <input className='bg-white rounded-lg px-4 py-2' type='text' placeholder='search'/>
         <div className='bg-green-500 rounded-full flex items-center justify-center h-10 w-10'>
           <SearchIcon />
+          <SearchIcon />
         </div>
       </div>
     </div>
